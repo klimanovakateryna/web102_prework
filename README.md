@@ -25,7 +25,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="https://imgur.com/W38oSkX" width="100%">
+![Video Walkthrough](https://i.imgur.com/W38oSkX.gif)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with https://getkap.co/ 
