@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="https://i.imgur.com/W38oSkX.gifv" width="100%">
+<img src="https://imgur.com/W38oSkX" width="100%">
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with https://getkap.co/ 
