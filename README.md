@@ -25,7 +25,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/W38oSkX.gifv' title='Video Walkthrough' alt='Video Walkthrough' />
+<iframe class="imgur-embed" width="100%" height="771" frameborder="0" src="https://i.imgur.com/W38oSkX.gifv#embed" allowfullscreen></iframe>
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with https://getkap.co/ 
 
