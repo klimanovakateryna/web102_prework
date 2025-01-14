@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Video Walkthrough](https://i.imgur.com/W38oSkX.gif)
+![Video Walkthrough](![image](https://github.com/user-attachments/assets/08496b65-0b55-4a1a-af78-0768d0563efb))
 
 
 <!-- Replace this with whatever GIF tool you used! -->
