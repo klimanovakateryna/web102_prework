@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Video Walkthrough](![image](https://github.com/user-attachments/assets/08496b65-0b55-4a1a-af78-0768d0563efb))
+![Video Walkthrough](https://github.com/klimanovakateryna/gif_place/blob/main/Kapture%202025-01-11%20at%2017.26.36.gif?raw=true)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
